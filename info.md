@@ -1,0 +1,1 @@
+1.collect_data_eepose/1.collect_data_jointspace 对应dataset中收集到的当前观测状态observation.state分别为末端执行器空间位姿和机械臂各关节角

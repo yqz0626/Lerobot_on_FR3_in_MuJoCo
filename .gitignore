@@ -1,0 +1,33 @@
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Checkpoints and model files
+ckpt/
+*.ckpt
+*.pth
+*.pt
+
+# Demo data (optional - uncomment if you don't want to upload data)
+# demo_data/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+.vscode/
+__pycache__/
